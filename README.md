@@ -16,7 +16,7 @@ significantly improving level of operational readiness for incidents and knowled
 • organization of the ticketing system;  
 • contributions to infrastructure team projects;  
 • consulting on architecture, managed infrastructure, deploy/release process, monitoring, worked on product performance;  
-• worked with team lead on improving agile and SRE practices,improving knowledge sharing, took part in disaster recovery drills;
+• worked with team lead on improving agile and SRE practices,improving knowledge sharing, took part in disaster recovery drills.
 
 ## Tech Stack
 
@@ -39,7 +39,10 @@ significantly improving level of operational readiness for incidents and knowled
 • Open  
 • High Trust  
 • Strive for Feedback  
-• Assertive TEAM/BUSINESS  
+• Assertive
+
+### TEAM/BUSINESS
+
 • Design-First  
 • Metrics-oriented  
 • Team player  
@@ -48,11 +51,11 @@ significantly improving level of operational readiness for incidents and knowled
 ### __LANGUAGES__
 
 • Russian – Native  
-• English – C1
+• English – B2
 
 ## EDUCATION
 
-Pyatigorsk State Language University 2010 - 2015 | Pyatigorsk, Russia
+Pyatigorsk State Language University / International marketing 2010 - 2015 | Pyatigorsk, Russia
 
 <!--
 **luckytea/luckytea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
