@@ -8,7 +8,7 @@ My name is Alexander and I'm software engineer.
 
 ## CAREER HIGHLIGHT
 
-__Wildberries__/SOFTWARE RELIABILITY ENGINEER August 2017 – Current | Moscow, Russia  
+__Wildberries__/SOFTWARE ENGINEER August 2017 – Current | Moscow, Russia  
 • key systems engineer in organization’s products, led implementation of SRE in organization. Accomplishments include creating new culture, SRE team able to tackle reliability features of the product, automated infrastructure provisioning, defined on-call and incident handling process leading to increased level of operational readiness, automated toil tracking, significantly reduced toil from processes and toolchains, increased project throughput of the team;  
 • led the interview and onboarding of new software engineers;  
 • led education/mentoring projects such as workshop learning of technological stack,
